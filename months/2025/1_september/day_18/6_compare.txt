@@ -1,0 +1,5 @@
+# Exercise: 6. Comparar design com herança vs composição
+
+1. Inheritance:
+    - The inheritance works like (is-a). 'This class is a - another class name - class.
+    - Composition works like (has-a).'This class car have an engine (another class)'.
